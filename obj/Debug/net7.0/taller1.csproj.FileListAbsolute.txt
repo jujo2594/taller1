@@ -1,0 +1,14 @@
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\taller1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\taller1.AssemblyInfoInputs.cache
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\taller1.AssemblyInfo.cs
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\taller1.csproj.CoreCompileInputs.cache
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\bin\Debug\net7.0\taller1.exe
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\bin\Debug\net7.0\taller1.deps.json
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\bin\Debug\net7.0\taller1.runtimeconfig.json
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\bin\Debug\net7.0\taller1.dll
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\bin\Debug\net7.0\taller1.pdb
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\taller1.dll
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\refint\taller1.dll
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\taller1.pdb
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\taller1.genruntimeconfig.cache
+C:\Users\Juan J Galan\Documents\JuanJose\Estudio\CAMPUSLAND\C#\projectsDotNet\taller1\obj\Debug\net7.0\ref\taller1.dll
